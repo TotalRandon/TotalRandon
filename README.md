@@ -2,8 +2,8 @@
 
 
 - 🔭 Atualmente:  Estou estudando programaçao e procurando um estagio para me especializar.
-- 🌱 possuo conhecimento nas seguintes linguagens: C, C++, C#, HTML e CSS.
-- 📚 Estou aprendendo:  Java Script, SQL e Python.
+- 🌱 possuo conhecimento nas seguintes linguagens: C, C++, C#, HTML, CSS, js, Mysql.
+- 📚 Estou aprendendo: PHP, Laravel, Java, Json, node.js.
 - 🏫 Curso Superior: TSI (Tecnólogo em sistemas para internet).
 - 💻 Setup: possuo conhecimento entre sistemas operacionais como MACOS e Windows, possuo um Macbook e um notebook windows.
 - 😄 Pronunciamentos: Espero que eu seja um grande profissional na area e me desenvolva tanto como programador e como pessoa.
