@@ -1,12 +1,12 @@
-## 👋 Olá, Meu nome é João Victor e sou estudante de programação.
+## 👋 Olá, Meu nome é João Victor e sou programador php laravel.
 
 
-- 🔭 Atualmente:  Estou estudando programaçao e procurando um estagio para me especializar.
-- 🌱 possuo conhecimento nas seguintes linguagens: C, C++, C#, HTML, CSS, js, Mysql.
-- 📚 Estou aprendendo: PHP, Laravel, Java, Json, node.js.
+- 🔭 Atualmente:  Estou 3 ano de programaçao e procurando um trabalho para me especializar na carreira.
+- 📚 possuo conhecimento nas seguintes linguagens: C, C++, C#, HTML, CSS, Js, React, Java, Mysql, Oracle.
+- 🌱 possuo maior habilidade: PHP, Laravel, HTML, CSS, Json, Mysql.
 - 🏫 Curso Superior: TSI (Tecnólogo em sistemas para internet).
-- 💻 Setup: possuo conhecimento entre sistemas operacionais como MACOS e Windows, possuo um Macbook e um notebook windows.
-- 😄 Pronunciamentos: Espero que eu seja um grande profissional na area e me desenvolva tanto como programador e como pessoa.
+- 💻 Setup: possuo conhecimento entre sistemas operacionais como MACOS, Windows e Linux, possuo um Macbook e um notebook windows.
+- 😄 Pronunciamentos: Espero fazer o proveito das linguagens e nos frameworks no qual desejo me especializar e sempre buscar a prefeição
  
 <div align="center">
   <a href="https://github.com/TotalRandon">
@@ -20,6 +20,7 @@
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Joao-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
   ##
